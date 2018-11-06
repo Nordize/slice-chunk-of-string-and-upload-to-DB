@@ -1,1 +1,1 @@
-# slice-chunk-of-string-and-upload-to-DB
+# slice-chunk-of-stringby-JS-and-upload-to-DB-with-PHP
